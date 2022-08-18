@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com/maogou/maogou.github.io.git
+  branch: master
