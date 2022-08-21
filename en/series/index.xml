@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 气盖世の籍</title>
-    <link>https://maogou.github.com/en/series/</link>
+    <link>https://maogou.github.io/en/series/</link>
     <description>Recent content in Series on 气盖世の籍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://maogou.github.com/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://maogou.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Themes Guide</title>
-        <link>https://maogou.github.com/en/series/themes-guide/</link>
+        <link>https://maogou.github.io/en/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>kinyou_xy@126.com (气盖世の籍)</author>
         
-        <guid>https://maogou.github.com/en/series/themes-guide/</guid>
+        <guid>https://maogou.github.io/en/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>气盖世の籍</dc:creator>

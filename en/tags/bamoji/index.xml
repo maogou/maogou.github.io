@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>bamoji on 气盖世の籍</title>
-    <link>https://maogou.github.com/en/tags/bamoji/</link>
+    <link>https://maogou.github.io/en/tags/bamoji/</link>
     <description>Recent content in bamoji on 气盖世の籍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://maogou.github.com/en/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://maogou.github.io/en/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>https://maogou.github.com/en/en/posts/emoji-support/</link>
+        <link>https://maogou.github.io/en/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>kinyou_xy@126.com (气盖世の籍)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://maogou.github.com/en/en/posts/emoji-support/</guid>
+        <guid>https://maogou.github.io/en/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
@@ -62,11 +62,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>https://maogou.github.com/en/zh/posts/emoji-support/</link>
+        <link>https://maogou.github.io/en/zh/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>kinyou_xy@126.com (气盖世の籍)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://maogou.github.com/en/zh/posts/emoji-support/</guid>
+        <guid>https://maogou.github.io/en/zh/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
